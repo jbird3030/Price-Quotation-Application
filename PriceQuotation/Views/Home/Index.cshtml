@@ -1,0 +1,33 @@
+﻿@model Quotation
+
+@{
+    ViewBag.Title = "Price Quotation";
+}
+
+<body>  
+    <form asp-action="Index" method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group row">
+                <label asp-for="Subtotal" class="col-sm-2">
+                    Subtotal:
+                </label>
+                <div class="col-sm-10"><input asp-for="Subtotal" /></div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="DiscountPercent" class="col-sm-2">
+                    Discount Percentage:
+                </label>
+                <div class="col-sm-10"><input asp-for="DiscountPercent" /></div>
+            </div>
+            <div>
+                <label>Total:</label>
+                <label>@ViewBag.Total.ToString("c2")</label>
+            </div>
+            <div>
+                <label>Total Discount:</label>
+                <label>@ViewBag.TotalDiscount.ToString("c2")</label>
+            </div>
+            <button class="btn btn-success" type="submit">Calculate</button>
+            <a asp-action="Index" class="btn btn-success">Clear</a>
+</form>
+</body>

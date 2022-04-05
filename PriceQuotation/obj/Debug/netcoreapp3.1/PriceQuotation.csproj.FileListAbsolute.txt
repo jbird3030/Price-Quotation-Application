@@ -1,0 +1,137 @@
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.exe
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.deps.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.dev.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.dll
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.dll
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.AssemblyReference.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfoInputs.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfo.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CoreCompileInputs.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\PriceQuotation.StaticWebAssets.Manifest.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.input.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.output.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorCoreGenerate.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.dll
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.genruntimeconfig.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CopyComplete
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.exe
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.deps.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.dev.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.dll
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.pdb
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.dll
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.AssemblyReference.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfoInputs.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfo.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CoreCompileInputs.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\PriceQuotation.StaticWebAssets.Manifest.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\PriceQuotation.StaticWebAssets.xml
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\scopedcss\bundle\PriceQuotation.styles.css
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.input.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.output.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorCoreGenerate.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.dll
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.pdb
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.genruntimeconfig.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CopyComplete
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.StaticWebAssets.xml
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.exe
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.deps.json
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.json
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.dev.json
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.dll
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.pdb
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.dll
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.AssemblyReference.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfoInputs.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfo.cs
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CoreCompileInputs.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cs
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\PriceQuotation.StaticWebAssets.Manifest.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.input.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.output.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorCoreGenerate.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cs
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.dll
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.pdb
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.genruntimeconfig.cache
+C:\Users\jbird\Desktop\Exercise 1\2-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CopyComplete
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.StaticWebAssets.xml
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.exe
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.deps.json
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.json
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.dev.json
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.dll
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.pdb
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.dll
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.AssemblyReference.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfoInputs.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfo.cs
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CoreCompileInputs.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cs
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\PriceQuotation.StaticWebAssets.Manifest.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.input.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.output.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorCoreGenerate.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cs
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.dll
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.pdb
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.genruntimeconfig.cache
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CopyComplete
+C:\Users\jbird\Desktop\McGee_J_3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\libman.json
